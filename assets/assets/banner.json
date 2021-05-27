@@ -1,0 +1,206 @@
+{
+  "code": "0",
+  "info": "Data found",
+  "data": {
+    "current_page": 1,
+    "data": [
+      {
+        "BannerID": 156,
+        "name_id": "wakaf alquran ",
+        "gambar_banner": "https://www.wakafquran.org/upload/user/ngadminwq/31-Jul-2019/WEB_SLIDER_png_kk.png",
+        "status": 1,
+        "link_banner": "https://www.wakafquran.org/project",
+        "created_at": null,
+        "updated_at": null,
+        "created_by": null,
+        "updated_by": null
+      },
+      {
+        "BannerID": 162,
+        "name_id": "sept 02 ",
+        "gambar_banner": "https://www.wakafquran.org/upload/user/ngadminwq/03-Sep-2019/image_oke_02.jpg",
+        "status": 1,
+        "link_banner": "https://www.wakafquran.org/hidup_terpencil_muslim_di_pulau_taliabu_dan_banggai_sangat_membutuhkan_al-quran",
+        "created_at": null,
+        "updated_at": null,
+        "created_by": null,
+        "updated_by": null
+      },
+      {
+        "BannerID": 163,
+        "name_id": "sept 01",
+        "gambar_banner": "https://www.wakafquran.org/upload/user/ngadminwq/03-Sep-2019/image_oke_revisi.jpg",
+        "status": 1,
+        "link_banner": "https://www.wakafquran.org/masyarakat_muslim_pesisir_aceh_butuh_al_quran",
+        "created_at": null,
+        "updated_at": null,
+        "created_by": null,
+        "updated_by": null
+      },
+      {
+        "BannerID": 165,
+        "name_id": "Web Slider BWA 2020 Rev",
+        "gambar_banner": "https://www.wakafquran.org/upload/user/ngadminwq/05-Feb-2020/Web_Slider_BWA_2020_Rev.jpg",
+        "status": 1,
+        "link_banner": "https://www.wakafquran.org/project/",
+        "created_at": null,
+        "updated_at": null,
+        "created_by": null,
+        "updated_by": null
+      },
+      {
+        "BannerID": 166,
+        "name_id": "Web Slider BWA WAP 2020 R",
+        "gambar_banner": "https://www.wakafquran.org/upload/user/ngadminwq/05-Feb-2020/Web_Slider_BWA_WAP_2020_Rev.jpg",
+        "status": 1,
+        "link_banner": "https://www.wakafquran.org/program/cat/wakaf_al_quran_pembinaan",
+        "created_at": null,
+        "updated_at": null,
+        "created_by": null,
+        "updated_by": null
+      },
+      {
+        "BannerID": 167,
+        "name_id": "Web Slider BWA WAFP 2020 ",
+        "gambar_banner": "https://www.wakafquran.org/upload/user/ngadminwq/05-Feb-2020/Web_Slider_BWA_WAFP_2020_Rev.jpg",
+        "status": 1,
+        "link_banner": "https://www.wakafquran.org/program/cat/water_action_for_people",
+        "created_at": null,
+        "updated_at": null,
+        "created_by": null,
+        "updated_by": null
+      },
+      {
+        "BannerID": 168,
+        "name_id": "Web Slider BWA TCIT 2020 ",
+        "gambar_banner": "https://www.wakafquran.org/upload/user/ngadminwq/05-Feb-2020/Web_Slider_BWA_TCIT_2020_Rev.jpg",
+        "status": 1,
+        "link_banner": "https://www.wakafquran.org/program/cat/tebar_cahaya_indonesia_terang",
+        "created_at": null,
+        "updated_at": null,
+        "created_by": null,
+        "updated_by": null
+      },
+      {
+        "BannerID": 169,
+        "name_id": "Web Slider BWA WKD 2020 R",
+        "gambar_banner": "https://www.wakafquran.org/upload/user/ngadminwq/05-Feb-2020/Web_Slider_BWA_WKD_2020_Rev.jpg",
+        "status": 1,
+        "link_banner": "https://www.wakafquran.org/program/cat/wakaf_khusus_dakwah",
+        "created_at": null,
+        "updated_at": null,
+        "created_by": null,
+        "updated_by": null
+      },
+      {
+        "BannerID": 170,
+        "name_id": "Web Slider BWA IB 2020 Re",
+        "gambar_banner": "https://www.wakafquran.org/upload/user/ngadminwq/05-Feb-2020/Web_Slider_BWA_IB_2020_Rev.jpg",
+        "status": 1,
+        "link_banner": "https://www.wakafquran.org/program/cat/indonesia_belajar",
+        "created_at": null,
+        "updated_at": null,
+        "created_by": null,
+        "updated_by": null
+      },
+      {
+        "BannerID": 171,
+        "name_id": "Web Slider BWA WP 2020 Re",
+        "gambar_banner": "https://www.wakafquran.org/upload/user/ngadminwq/05-Feb-2020/Web_Slider_BWA_WP_2020_Rev.jpg",
+        "status": 1,
+        "link_banner": "https://www.wakafquran.org/program/cat/wakaf_produktif",
+        "created_at": null,
+        "updated_at": null,
+        "created_by": null,
+        "updated_by": null
+      },
+      {
+        "BannerID": 172,
+        "name_id": "Web Slider BWA SK 2020 Re",
+        "gambar_banner": "https://www.wakafquran.org/upload/user/ngadminwq/05-Feb-2020/Web_Slider_BWA_SK_2020_Rev.jpg",
+        "status": 1,
+        "link_banner": "https://www.wakafquran.org/program/cat/sedekah_kemanusiaan",
+        "created_at": null,
+        "updated_at": null,
+        "created_by": null,
+        "updated_by": null
+      },
+      {
+        "BannerID": 175,
+        "name_id": "covid19 baru 2020",
+        "gambar_banner": "https://www.wakafquran.org/upload/user/ngadminwq/15-Apr-2020/BWA_WEB-BANNER.jpg",
+        "status": 1,
+        "link_banner": "https://www.wakafquran.org/sk_wabah_corona/",
+        "created_at": null,
+        "updated_at": null,
+        "created_by": null,
+        "updated_by": null
+      },
+      {
+        "BannerID": 176,
+        "name_id": "Banner SIGAP Corona APD",
+        "gambar_banner": "https://www.wakafquran.org/upload/user/ngadminwq/23-Apr-2020/BWA_WEB-BANNER_APD1.png",
+        "status": 1,
+        "link_banner": "https://www.wakafquran.org/sk_wabah_corona/",
+        "created_at": null,
+        "updated_at": null,
+        "created_by": null,
+        "updated_by": null
+      },
+      {
+        "BannerID": 177,
+        "name_id": "Banner SIGAP Corona APD S",
+        "gambar_banner": "https://www.wakafquran.org/upload/user/ngadminwq/23-Apr-2020/BWA-WEB-BANNER-21.png",
+        "status": 1,
+        "link_banner": "https://www.wakafquran.org/sk_wabah_corona/",
+        "created_at": null,
+        "updated_at": null,
+        "created_by": null,
+        "updated_by": null
+      },
+      {
+        "BannerID": 178,
+        "name_id": "Banner SIGAP Corona WAP",
+        "gambar_banner": "https://www.wakafquran.org/upload/user/ngadminwq/23-Apr-2020/BWA-WEB-BANNER-31.png",
+        "status": 1,
+        "link_banner": "https://www.wakafquran.org/wap_kabupaten_sumbawa/",
+        "created_at": null,
+        "updated_at": null,
+        "created_by": null,
+        "updated_by": null
+      },
+      {
+        "BannerID": 179,
+        "name_id": "bwaberbagimenguatkan",
+        "gambar_banner": "https://www.wakafquran.org/upload/user/ngadminwq/02-May-2020/bannerHome1.jpg",
+        "status": 1,
+        "link_banner": "https://www.wakafquran.org/bwaberbagimenguatkan",
+        "created_at": null,
+        "updated_at": null,
+        "created_by": null,
+        "updated_by": null
+      },
+      {
+        "BannerID": 180,
+        "name_id": "Kado buat ibu 2020",
+        "gambar_banner": "https://www.wakafquran.org/upload/user/ngadminwq/04-Dec-2020/HARI-IBU_BWA_WEB-BANNER_.jpg",
+        "status": 1,
+        "link_banner": "https://www.wakafquran.org/semenjak_al-quran_road_trip_2016_berlalu_sekarang_kondisi_al-quran_wakaf_di_ntt_sudah_banyak_rusak/",
+        "created_at": null,
+        "updated_at": null,
+        "created_by": null,
+        "updated_by": null
+      }
+    ],
+    "first_page_url": "http://qodhib.bwa.id:88/api-gateway/api/campaign-bannerwq?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "http://qodhib.bwa.id:88/api-gateway/api/campaign-bannerwq?page=1",
+    "next_page_url": null,
+    "path": "http://qodhib.bwa.id:88/api-gateway/api/campaign-bannerwq",
+    "per_page": 25,
+    "prev_page_url": null,
+    "to": 17,
+    "total": 17
+  }
+}
